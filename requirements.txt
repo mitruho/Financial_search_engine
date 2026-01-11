@@ -1,2 +1,5 @@
 perl
 pyterrier
+pyterrier_alpha
+FlagEmbedding
+spacy
